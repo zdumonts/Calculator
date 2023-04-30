@@ -1,5 +1,5 @@
 # Calculator
-Created a simple calculator program
+Created A Simple Calculator Program
 
 # What I learned
 - infix to postfix notation
