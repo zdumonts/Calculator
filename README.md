@@ -6,3 +6,4 @@ Created A Simple Calculator Program
 - tkinter GUI
 - binary and expression tree
 - how to implement stacks
+- & much more
